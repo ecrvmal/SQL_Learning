@@ -4,7 +4,68 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68d8662e-6be4-4825-976c-a12be42e502a" name="Changes" comment="" />
+    <list default="true" id="68d8662e-6be4-4825-976c-a12be42e502a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Course_Work/SQL_Practical_Work_Malchevskiy.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Diploma_Work/SQL_Practical_Work_Malchevskiy.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Course_Work/cinema7_data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Diploma_Work/cinema7_data.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Course_Work/cinema7_tables.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Diploma_Work/cinema7_tables.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Course_Work/cinema_frgn_key.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Diploma_Work/cinema_frgn_key.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Course_Work/cinema_triggers_procedures.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Diploma_Work/cinema_triggers_procedures.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Course_Work/sinema_select_view.sql" beforeDir="false" afterPath="$PROJECT_DIR$/Diploma_Work/sinema_select_view.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson1/Create_table_users.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson1/SQL Lesson1 Screenshot.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson1/~$L Lesson1 Screenshot.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson11/Lesson11_HW.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson11/SQL_Lesson_11_HW_Screenshots.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson2/SQL_Lesson_02_HW_Screenshots.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson2/Script_Example_1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson2/dump_help_keyword.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson2/example_dump_1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson2/my.cnf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/SQL_Lesson_03_HW_Screenshots.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/fulldb_filled_v1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_db_v1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_db_v2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_tables_filled/communities24-08-2022 16-01.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_tables_filled/communities_users24-08-2022 16-01.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_tables_filled/friendship24-08-2022 16-01.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_tables_filled/friendship_statuses24-08-2022 16-01.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_tables_filled/fulldb24-08-2022 16-02.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_tables_filled/like_sign24-08-2022 16-01.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_tables_filled/media24-08-2022 16-00.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_tables_filled/media_like_sign24-08-2022 16-01.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_tables_filled/media_types24-08-2022 16-01.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_tables_filled/messages24-08-2022 15-59.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_tables_filled/messages_like_sign24-08-2022 16-00.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_tables_filled/profiles24-08-2022 16-00.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_tables_filled/users24-08-2022 16-00 (1).sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_tables_filled/users24-08-2022 16-00.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson3/vk_tables_filled/users_like_sign24-08-2022 16-00.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson4/Lesson_4_Script_All_Commands.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson4/SQL_Lesson_04_HW_Screenshots_v2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson4/dump_vk_v4.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson5/HW_Script_5_1_1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson5/HW_Script_5_1_2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson5/HW_Script_5_1_3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson5/HW_Script_5_1_4.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson5/HW_Script_5_2_1.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson5/HW_Script_5_2_2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson5/HW_Script_5_2_3.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson5/SQL_Lesson_05_HW_Screenshots.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson6/Lesson_6_script HW.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson6/SQL_Lesson_06_HW_Screenshots.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson7/Lesson_7_script HW.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson7/SQL_Lesson_07_HW_Screenshots.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson7/flights_data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson7/lsn7_shop_orders.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson7/shop.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson8/Lesson_8_script HW.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson8/SQL_Lesson_08_HW_Screenshots.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson8/vk_dump_20220911.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson9/SQL_Lesson_09_HW_Screenshots.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_SQL/SQL_Lesson9/Script_9_HW.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,13 +83,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "com.leinardi.pycharm.pylint.PylintConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.leinardi.pycharm.pylint.PylintConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ecrvmal\GB\Courses\pythonProject\check_git\Lessons" />
+      <recent name="D:\ecrvmal\GB\Courses\pythonProject\check_git" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,5 +106,16 @@
       <updated>1695045000488</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
